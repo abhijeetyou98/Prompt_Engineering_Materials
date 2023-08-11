@@ -1,0 +1,14 @@
+## A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT
+
+1) The Meta Language Creation Pattern
+
+Example:
+xample Implementation: The key to successfully using
+the Meta Language Creation pattern is developing an unam-
+biguous notation or shorthand, such as the following:
+“From now on, whenever I type two identifiers
+separated by a “→”, I am describing a graph. For
+example, “a → b” is describing a graph with nodes
+“a” and “b” and an edge between them. If I separate
+identifiers by “-[w:2, z:3]→”, I am adding properties
+of the edge, such as a weight or label.”
